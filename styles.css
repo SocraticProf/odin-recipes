@@ -2,3 +2,15 @@ img {
     height: auto;
     width: 400px
 }
+
+.lvl1 {
+    margin-left: 0px
+}
+
+.lvl2 {
+    margin-left: 50px
+}
+
+.lvl3 {
+    margin-left: 100px
+}
