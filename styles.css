@@ -14,3 +14,21 @@ img {
 .lvl3 {
     margin-left: 100px
 }
+
+#Title {
+    text-align: center
+}
+
+.quant {
+    color: rgb(4, 88, 141);
+    font-weight: bold;
+}
+
+.time {
+    font-weight: bold
+}
+
+.temp {
+    color: darkred;
+    font-weight: bold
+}
